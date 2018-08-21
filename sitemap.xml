@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>tsmoffat.github.io/posts/some_thoughts/</loc>
+    <lastmod>2018-08-21T13:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>tsmoffat.github.io/authors/</loc>
     <priority>0</priority>
   </url>
@@ -13,7 +18,14 @@
   </url>
   
   <url>
+    <loc>tsmoffat.github.io/posts/</loc>
+    <lastmod>2018-08-21T13:11:42+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>tsmoffat.github.io/</loc>
+    <lastmod>2018-08-21T13:11:42+01:00</lastmod>
     <priority>0</priority>
   </url>
   
