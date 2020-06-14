@@ -1,23 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming, Engineering and some documents</title>
     <link>tsmoffat.github.io/</link>
     <description>Recent content on Programming, Engineering and some documents</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 21 Aug 2018 13:11:42 +0100</lastBuildDate>
     
 	<atom:link href="tsmoffat.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Some Thoughts</title>
-      <link>tsmoffat.github.io/posts/some_thoughts/</link>
-      <pubDate>Tue, 21 Aug 2018 13:11:42 +0100</pubDate>
-      
-      <guid>tsmoffat.github.io/posts/some_thoughts/</guid>
-      <description>Some thoughts on dev.to After a few weeks of reading dev.to, what I&amp;rsquo;ve learned is that there&amp;rsquo;s so many people there that are completely up themselves (which sometimes includes me). This sucks. Dev.to is a great idea, and the people who run it are completely lovely, however there&amp;rsquo;s people on there who are just so willing to peacock themselves that they forget what the point of the website is, which is to foster discussion.</description>
-    </item>
     
   </channel>
 </rss>
